@@ -4,8 +4,8 @@
  */
 class MyLogger
 {
-    
-    public function log($message){
+    public function log($message)
+    {
         echo $message;
     }
 }
